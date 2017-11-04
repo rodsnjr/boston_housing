@@ -1,0 +1,12 @@
+name: udacity-ml
+channels:
+- defaults
+dependencies:
+- python==2.7.13
+- numpy
+- pandas
+- pip:
+  - scikit-learn==0.17.1
+  - matplotlib
+
+
